@@ -2,7 +2,7 @@
 
 ## Información de los Estudiantes
 - **Nombres Completos:** Juan José Álvarez Ocampo, Sara Echeverri Gomez y Nathalia Valentina Cardoza Azuaje
-- **Clase:** Si2004
+- **Clase:** SI2004
 - **Curso:** Sistemas operativos
 - **Profesor:** Diego Ivan Cruz Ordiéres 
 - **Tarea:** Proyecto final
