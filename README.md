@@ -1,7 +1,7 @@
 # 
 
 ## Información de los Estudiantes
-- **Nombres Completos:** Juan José Álvarez Ocampo, Sara Echeverri Gomez
+- **Nombres Completos:** Juan José Álvarez Ocampo, Sara Echeverri Gomez and Nathalia
 - **Clase:** Si2004
 - **Curso:** Sistemas operativos
 - **Profesor:** Diego Ivan Cruz Ordiéres 
