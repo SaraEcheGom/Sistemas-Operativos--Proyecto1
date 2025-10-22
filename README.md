@@ -11,6 +11,5 @@
 - **Sistema Operativo:** macOS Tahoe 26.0.1
 - **Procesador:** Apple Silicon M4
 - **Memoria:** 16 GB RAM, 512 GB
-- **Version de Visual Studio Code:** 1.105.1
-- **Version de Python:** 3.9.6
+- **Versión de Visual Studio Code:** 1.105.1
 - **Terminal:** zsh 5.9 (arm64-apple-darwin25.0)
