@@ -1,4 +1,4 @@
-# 
+# Proyecto Final: Ssistemas Operativos
 
 ## Información de los Estudiantes
 - **Nombres Completos:** Juan José Álvarez Ocampo, Sara Echeverri Gomez y Nathalia Valentina Cardoza Azuaje
@@ -49,6 +49,4 @@ Sistemas-Operativos--Proyecto
  │     ├─ vacio.gitkeep   
  └─ README.md        
 ```
-
-## Contenido del Repositorio
 
