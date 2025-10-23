@@ -25,14 +25,29 @@
 ## Estructura del proyecto
 
 ```
-Sistemas-Operativos--Proyecto/
- ├─ cli/              
- ├─ kernel-sim/       
- ├─ modules/         
- ├─ docs/
- │    ├─ Proyecto Final.docx    
- ├─ tests/          
- └─ scenarios/        
+Sistemas-Operativos--Proyecto
+ ├─ cli
+ │    ├─ vacio.gitkeep       
+ ├─ kernel-sim
+ │           ├─ vacio.gitkeep
+ ├─ modules 
+ │        ├─ mem
+ │        │    ├─ vacio.gitkeep
+ │        │
+ │        ├─ io
+ │        │   ├─ vacio.gitkeep
+ │        │
+ │        ├─ disk
+ │        │     ├─ vacio.gitkeep
+ │        │     
+ │        ├─ cpu
+ │             ├─ vacio.gitkeep
+ │
+ ├─ docs
+ │     ├─ Proyecto Final.docx    
+ ├─ test
+ │     ├─ vacio.gitkeep   
+ └─ README.md        
 ```
 
 ## Contenido del Repositorio
