@@ -22,14 +22,17 @@
 - **Catch2:** v3
 - **CLI11:** v2.4 o superior
 
+## Estructura del proyecto
+
 ```
-Sistemas-Operativos--Entregas/
- ├─ cli/              → interfaz de línea de comandos
- ├─ kernel-sim/       → núcleo del sistema (clases base, syscall, ipc, sync)
- ├─ modules/          → módulos específicos (cpu, mem, io, disk)
- ├─ docs/             → documentación técnica y diagramas
- ├─ tests/            → pruebas unitarias e integración
- └─ scenarios/        → escenarios de simulación (.json)
+Sistemas-Operativos--Proyecto/
+ ├─ cli/              
+ ├─ kernel-sim/       
+ ├─ modules/         
+ ├─ docs/
+ │    ├─ Proyecto Final.docx    
+ ├─ tests/          
+ └─ scenarios/        
 ```
 
 ## Contenido del Repositorio
