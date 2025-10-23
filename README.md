@@ -27,7 +27,8 @@
 ```
 Sistemas-Operativos--Proyecto
  ├─ cli
- │    ├─ vacio.gitkeep       
+ │    ├─ vacio.gitkeep
+ │      
  ├─ kernel-sim
  │           ├─ vacio.gitkeep
  ├─ modules 
@@ -44,9 +45,11 @@ Sistemas-Operativos--Proyecto
  │             ├─ vacio.gitkeep
  │
  ├─ docs
- │     ├─ Proyecto Final.docx    
+ │     ├─ Proyecto Final.docx
+ │ 
  ├─ test
- │     ├─ vacio.gitkeep   
+ │     ├─ vacio.gitkeep
+ │
  └─ README.md        
 ```
 
