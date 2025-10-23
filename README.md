@@ -1,4 +1,4 @@
-# Proyecto Final: Ssistemas Operativos
+# Proyecto Final: Sistemas Operativos
 
 ## Información de los Estudiantes
 - **Nombres Completos:** Juan José Álvarez Ocampo, Sara Echeverri Gomez y Nathalia Valentina Cardoza Azuaje
