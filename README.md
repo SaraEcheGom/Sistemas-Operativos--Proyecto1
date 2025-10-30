@@ -46,7 +46,7 @@ Sistemas-Operativos--Proyecto
  │             ├─ vacio.gitkeep
  │
  ├─ docs
- │     ├─ Proyecto Final.docx
+ │     ├─ Informe Técnico.docx
  │ 
  ├─ test
  │     ├─ vacio.gitkeep
