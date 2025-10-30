@@ -25,32 +25,44 @@
 ## Estructura del proyecto
 
 ```
-Sistemas-Operativos--Proyecto
- │
- ├─ cli
- │    ├─ vacio.gitkeep
- │      
- ├─ kernel-sim
- │           ├─ vacio.gitkeep
- ├─ modules 
- │        ├─ mem
- │        │    ├─ vacio.gitkeep
- │        │
- │        ├─ io
- │        │   ├─ vacio.gitkeep
- │        │
- │        ├─ disk
- │        │     ├─ vacio.gitkeep
- │        │     
- │        ├─ cpu
- │             ├─ vacio.gitkeep
- │
- ├─ docs
- │     ├─ Informe Técnico.docx
- │ 
- ├─ test
- │     ├─ vacio.gitkeep
- │
- └─ README.md        
+Sistemas-Operativos
+│
+├─ cli
+│   ├─ cli_handler.h
+│   └─ main.cpp
+│
+├─ docs
+│   ├─ .DS_Store
+│   └─ Informe Técnico .docx
+│
+├─ kernel-slim
+│   └─ os_kernel.h
+│
+├─ modules
+│   ├─ cpu
+│   │   ├─ process.h
+│   │   ├─ process_manager.h
+│   │   ├─ scheduler.h
+│   │   └─ scheduler_sjf.h
+│   │
+│   ├─ io
+│   │   ├─ buffer.h
+│   │   └─ sync.h
+│   │
+│   ├─ mem
+│   │   ├─ memory_visualizer.h
+│   │   ├─ paging.h
+│   │   ├─ paging_lru.h
+│   │   └─ scheduler_rr.h
+│   │
+│   └─ disk
+│       └─ vacio.gitkeep
+│
+├─ test
+│   └─ vacio.gitkeep
+│
+├─ .DS_Store
+├─ .gitattributes
+└─ README.md 
 ```
 
