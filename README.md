@@ -84,7 +84,7 @@ Para ejecutar nuestro proyecto en tu dispositivo, primero debes asegurarte de co
 
 *4)* Abre la carpeta del proyecto en VS Code en Archivo,Abrir carpeta. Deberías ver los archivos main.cpp, buffer.h, sync.h, scheduler_rr.h, paging.h y demo.script; con esto comprobaras que abriste la carpeta correctamente
 
-*5)* Compila el programa
+*5)* Compila el programa:
   clang++ -std=c++20 main.cpp -pthread -o simulator
 
 *6)* Ejecuta el programa desde la terminal
