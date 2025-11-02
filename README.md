@@ -65,4 +65,28 @@ Sistemas-Operativos
 ├─ .gitattributes
 └─ README.md 
 ```
+## Guía de instalación y ejecución del simulador
+Para ejecutar nuestro proyecto en tu dispositivo, primero debes asegurarte de contar con las herramientas necesarias para compilar programas en C++. Este Simulador  incluye módulos de planificación, memoria y sincronización, por lo que necesitarás un entorno de desarrollo adecuado antes de ejecutarlo. A continuación, se mostraran los pasos que debes seguir para instalar, compilar y correr correctamente el programa:
 
+*1)* Asegúrate de tener instalado un compilador C++ moderno (como g++ o clang) que soporte C++20 y la librería de threads; instálalo de esta manera
+- Linux o macOS: 
+  sudo apt install g++ clang
+- En Windows:
+  pacman -S mingw-w64-x86_64-clang
+*2)* Instala Visual Studio Code y agrega la extensión C/C++ de Microsoft para compilar y ejecutar el proyecto fácilmente
+*3)* Obtén el código fuente del simulador de dos formas:
+- Descargalo:
+   Descargo el archivo como .zip y descomprímelo
+- Clona el repositorio:
+  git clone https://github.com/tu-usuario/tu-repo.git
+*4)* Abre la carpeta del proyecto en VS Code en Archivo,Abrir carpeta. Deberías ver los archivos main.cpp, buffer.h, sync.h, scheduler_rr.h, paging.h y demo.script; con esto comprobaras que abriste la carpeta correctamente
+*5)*Compila el programa
+  clang++ -std=c++20 main.cpp -pthread -o simulator
+*6)*Ejecuta el programa desde la terminal
+  - En Windows:
+    .\simulator.exe
+  - En Linux o macOS:
+    ./simulator ó ./a.out
+    
+
+  
